@@ -7,4 +7,4 @@ Front-end: HTML, CSS, TypeScript, React<br>
 Deployment: Netlify
 
 # 도메인
-https://diff-color-catch.netlify.app/
+https://6208ff5c1146d79804c98552--trusting-stonebraker-0f58d6.netlify.app/
